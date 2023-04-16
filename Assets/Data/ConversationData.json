@@ -208,7 +208,7 @@
 				"Text": "Go to your next class! Let's keep a look out for any oddities in the school so we can find the labryinth entrance."
 			},
 			{
-				"Text": "[Cyra nods and takes one step and stops.]"
+				"Text": "[Cyra nods, she takes a step and stops with a sheepish grin.]"
 			},
 			{
 				"Speaker": "Cyra",
@@ -256,7 +256,7 @@
 			},
 			{
 				"Speaker": "Ivona",
-				"Text": "I see you girls have also noticed a labryinth has opened somewhere in the school as well.",
+				"Text": "I see you girls have noticed a labryinth has opened somewhere in the school as well.",
 				"Script": [ "AddPortrait bird Mascot $birdPortraitX 128 0.25" ]
 			},
 			{
@@ -320,7 +320,7 @@
 		"DialogueRecords": [
 			{
 				"Speaker": "Cyra",
-				"Text": "I don't know. The cafeteria seems pretty big. Wouldn't a labryinth entrance fit there?"
+				"Text": "I don't know. The cafeteria seems pretty big. Wouldn't a labyrinth entrance fit there?"
 			},
 			{
 				"Speaker": "Wren",
@@ -437,7 +437,7 @@
 			},
 			{
 				"Speaker": "Slacker Student",
-				"Text": "Bro? I thought those were like his babies!"
+				"Text": "Bro? I thought those books were his babies!"
 			}
 		]
 	},
@@ -517,7 +517,7 @@
 			},
 			{
 				"Speaker": "Cyra",
-				"Text": "We don't mean to be rude Principal Reed but how come?"
+				"Text": "We don't mean to be rude Principal Reed, but how come?"
 			},
 			{
 				"Text": "[The man looks at Cyra in surprise, as if this is the most incredulous question he's ever heard in his life. The irritation practically radiates off of him.]"
